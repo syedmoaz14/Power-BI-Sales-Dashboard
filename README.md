@@ -7,7 +7,7 @@ This project demonstrates the use of **Power BI** to analyze sales data. The das
 Check out the live demo of the project: [Link to Power BI Report]
 
 ## Screenshots
-![Dashboard Screenshot](URL_to_your_screenshot.png)
+![Dashboard Screenshot](screenshots/image.png)
 
 ## How It Works
 - **Data**: The dashboard uses **sales data** from the **Online Retail** dataset.
